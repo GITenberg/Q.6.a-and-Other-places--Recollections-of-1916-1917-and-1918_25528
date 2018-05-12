@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31394'
     url: http://www.gutenberg.org/2009/agents/31394
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25528#Q.6.a-and-Other-places--Recollections-of-1916-1917-and-1918
 gutenberg_issued: '2008-05-19'
 gutenberg_type: Text
 identifiers:
