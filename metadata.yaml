@@ -1,0 +1,29 @@
+_repo: Q.6.a-and-Other-places--Recollections-of-1916-1917-and-1918_25528
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Buckley, Francis
+    birthdate: 1881
+    deathdate: 1949
+    gutenberg_agent_id: '31394'
+    url: http://www.gutenberg.org/2009/agents/31394
+description: ''
+gutenberg_issued: '2008-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25528'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Great Britain'
+- !lcsh 'World War, 1914-1918 -- Personal narratives, English'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- France'
+- !lcc 'D501'
+- !lcsh 'Great Britain. Army. Northumberland Fusiliers'
+title: 'Q.6.a and Other places: Recollections of 1916, 1917 and 1918'
+url: http://www.gutenberg.org/ebooks/25528
